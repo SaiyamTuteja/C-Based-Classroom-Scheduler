@@ -46,11 +46,10 @@ gcc -o scheduler main.c utils.c
 6. Save Timetable
 7. Load Timetable
 8. Exit
-```
 
 ## 📂 Project Structure
 
-```
+
 /classroom-scheduler
 │── main.c              # Core application logic
 │── scheduler.h         # Header file
@@ -58,7 +57,7 @@ gcc -o scheduler main.c utils.c
 │── Makefile            # Build configuration
 │── docs/               # Documentation
 │── samples/            # Example timetables
-```
+
 
 ## 🧑‍💻 Development Team
 
@@ -73,10 +72,6 @@ gcc -o scheduler main.c utils.c
 
 MIT © 2024 Classroom Scheduler Team
 
----
-
-> **Note:** This project is currently in local development. GitHub repository coming soon!
-```
 
 ### Key Features:
 - Modern badge styling for visual appeal
