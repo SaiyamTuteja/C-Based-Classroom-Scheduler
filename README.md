@@ -1,6 +1,4 @@
-Here's a professional and visually appealing `README.md` for your Classroom Scheduler project:
 
-```markdown
 # 🎓 Classroom Scheduler System
 
 ![C](https://img.shields.io/badge/C-100%25-blue)
@@ -28,7 +26,7 @@ Here's a professional and visually appealing `README.md` for your Classroom Sche
 
 ## 🛠️ Installation
 
-```bash
+
 # Clone repository (when available)
 git clone https://github.com/yourusername/classroom-scheduler.git
 
