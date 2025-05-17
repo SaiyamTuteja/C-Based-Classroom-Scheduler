@@ -27,19 +27,17 @@
 ## 🛠️ Installation
 
 
-# Clone repository (when available)
-git clone https://github.com/yourusername/classroom-scheduler.git
+# Clone repository 
+git clone https://github.com/SaiyamTuteja/C-Based-Classroom-Scheduler.git
 
 # Compile
 gcc -o scheduler main.c utils.c
 
 # Run
-./scheduler
-```
+
 
 ## 🖥️ Usage
 
-```text
 1. View Timetable
 2. Swap Teachers
 3. Change Class Section
