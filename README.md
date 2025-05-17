@@ -49,7 +49,7 @@ gcc -o scheduler main.c utils.c
 
 ## 📂 Project Structure
 
-
+```
 classroom-scheduler/
 ├── src/
 │ ├── main.c # Core application entry point
@@ -68,7 +68,7 @@ classroom-scheduler/
 │ └── test_data/ # Test cases
 ├── Makefile # Build configuration
 └── README.md # Project documentation
-
+```
 
 ## 🧑‍💻 Development Team
 
