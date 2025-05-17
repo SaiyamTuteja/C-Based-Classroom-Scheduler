@@ -50,13 +50,24 @@ gcc -o scheduler main.c utils.c
 ## 📂 Project Structure
 
 
-/classroom-scheduler
-│── main.c              # Core application logic
-│── scheduler.h         # Header file
-│── utils.c             # Helper functions
-│── Makefile            # Build configuration
-│── docs/               # Documentation
-│── samples/            # Example timetables
+classroom-scheduler/
+├── src/
+│ ├── main.c # Core application entry point
+│ ├── scheduler.h # Main header with struct definitions
+│ ├── scheduler.c # Core scheduling algorithms
+│ ├── file_io.c # Timetable save/load operations
+│ └── utils.c # Helper functions
+├── docs/
+│ ├── MANUAL.md # User documentation
+│ └── DESIGN.md # System architecture
+├── samples/
+│ ├── timetable_A.txt # Example timetable for Section A
+│ └── faculty_load.txt # Sample workload report
+├── tests/
+│ ├── test_scheduler.c # Unit tests
+│ └── test_data/ # Test cases
+├── Makefile # Build configuration
+└── README.md # Project documentation
 
 
 ## 🧑‍💻 Development Team
